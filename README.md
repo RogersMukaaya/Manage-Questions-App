@@ -5,7 +5,7 @@ A CRUD questions app that lets you Create Read Update and Delete questions store
 ![Screens](/src/assests/images/Screenshot%202022-05-08%20at%2016.39.17.png?raw=true "Screens")
 
 # Test App
-[Manage Questions App](https://rogersmukaaya.github.io/Manage-Questions-App/)
+[Manage Questions App](https://lustrous-cheesecake-001a0c.netlify.app/)
 
 # Getting Started with the Questions App
 
